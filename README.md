@@ -1,1 +1,1 @@
-doing this until permanent cs brainrot consumes me
+nap.take(short=True)
